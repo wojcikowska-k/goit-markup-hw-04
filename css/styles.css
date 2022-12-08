@@ -260,6 +260,7 @@ body {
 .tweeter-team {
   fill: var(--grey-icon-color);
   width: 20px;
+  background-color: #000;
 }
 .facebook-team {
   fill: var(--grey-icon-color);
@@ -270,8 +271,10 @@ body {
   width: 20px;
 }
 .circle-team {
-  fill: var(--white-color);
-  width: 44px;
+  /* fill: var(--white-color); */
+
+  fill: orange;
+  background-color: red;
 }
 .circle-team:hover,
 .circle-team:focus {
