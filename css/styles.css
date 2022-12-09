@@ -133,7 +133,7 @@ body {
       var(--dark-transparent-color),
       var(--dark-transparent-color)
     ),
-    url("/images/header.jpg");
+    url("../images/header.jpg");
 }
 .hero-title {
   font-weight: 900;
