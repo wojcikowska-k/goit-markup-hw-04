@@ -119,9 +119,12 @@ body {
 }
 /* MAIN */
 
+.hero-background {
+  background-color: var(--dark-color);
+}
 .hero-main {
   text-align: center;
-  background-color: var(--dark-color);
+
   line-height: 1.36;
   display: flex;
   justify-content: center;
