@@ -124,7 +124,6 @@ body {
 }
 .hero-main {
   text-align: center;
-
   line-height: 1.36;
   display: flex;
   justify-content: center;
@@ -191,6 +190,18 @@ body {
   background-color: var(--almost-white-color);
   border-radius: 4%;
   display: block;
+}
+.antenna {
+  padding: 25px 102px;
+}
+.clock {
+  padding: 25px 102px;
+}
+.diagram {
+  padding: 33px 100px;
+}
+.astronaut {
+  padding: 25px 100px;
 }
 
 .what-we-do-content {
@@ -292,6 +303,7 @@ body {
   border-style: solid;
   border-radius: 4%;
   display: block;
+  padding: 17px 32px 14px 32px;
 }
 
 .clients-icon:hover > .client-svg-item,
